@@ -1,0 +1,20 @@
+{
+  "name": "rockbandswiki",
+  "version": "1.0.0",
+  "description": "En este sitio hablaré de algunas de las mejores bandas de Rock de todos los tiempos.",
+  "main": ".eleventy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --port=7777",
+    "clean":"rm -rf docs",
+    "deploy":""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
