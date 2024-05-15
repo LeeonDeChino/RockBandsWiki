@@ -1,1 +1,9 @@
-# The Rolling Stones
+---
+layout: layout-post.njk
+title: The Rolling Stones
+description: Artículo de la banda The Rolling Stones
+tags: ["bandas"]
+date: "2024-05-15"
+---
+
+# {{ title }}

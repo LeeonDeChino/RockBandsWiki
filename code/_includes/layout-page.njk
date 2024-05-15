@@ -6,12 +6,14 @@
   <title>{{title}}</title>
   <meta name="description" content="{{description}}">
   <link rel="icon" href="/img/RockLogo.png">
+  <link rel="stylesheet" href="/css/estilos.css">
 </head>
 <body>
+  {% include "header.njk" %}
   <main>
     {{content | safe}}
   </main>
-
+  {% include "footer.njk" %}
   <script src ="/js/main.js" type="module"> </script>
 </body>
 </html>
