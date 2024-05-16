@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Metallica
 description: Artículo de la banda Metallica
-tags: ["bandas"]
+tags: ["bandas","metal"]
 date: "2024-05-15"
 ---
 
