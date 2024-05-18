@@ -4,9 +4,11 @@ title: Metallica
 description: Artículo de la banda Metallica
 tags: ["bandas","metal"]
 date: "2024-05-15"
+logo: /img/MetallicaLogo.png
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/WM8bTdBs-cw?si=1CK5bVVzKb16reBd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/E0ozmU9cJDg?si=24R7Z-ZiuwDhdJJb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/tAGnKpE4NCI?si=63r9Iidhivglo00M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
-
-# {{ title }}
 
 Metallica es una de las bandas más influyentes e icónicas en la historia del heavy metal y el rock en general. Fundada en 1981 en Los Ángeles, California, por el baterista Lars Ulrich y el guitarrista y vocalista James Hetfield, Metallica ha dejado una marca indeleble en la música con su estilo agresivo, letras profundas y ejecución técnica excepcional.
 

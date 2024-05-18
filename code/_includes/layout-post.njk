@@ -5,24 +5,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{title}}</title>
   <meta name="description" content="{{description}}">
-  <link rel="icon" href="/img/RockLogo.png">
+  <link rel="icon" href="/img/RockLogo.jpg">
   <link rel="stylesheet" href="/css/estilos.css">
 </head>
 <body>
-  {% include "header.njk" %}
+  {% include "header-post.njk" %}
   <main>
     {{content | safe}}
+    <hr>
+    <h2>Mejores Canciones</h2>
+    <br>
+    {{song1 | safe}}
+    <br>
+    {{song2 | safe}}
+    <br>
+    {{song3 | safe}}
+    <hr>
   </main>
-  <hr>
   <aside>
     <h2>Más bandas</h2>
+    <h3>Bandas de Rock</h3>
     <ul>
-      {% for article in collections.bandas %}
+      {% for article in collections.rock %}
+      <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <h3>Bandas de Metal</h3>
+    <ul>
+      {% for article in collections.metal %}
       <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
       {% endfor %}
     </ul>
   </aside>
-  {% include "footer.njk" %}
+  {% include "footer-post.njk" %}
   <script src ="/js/main.js" type="module"> </script>
 </body>
 </html>

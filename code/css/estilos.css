@@ -28,10 +28,7 @@ hr {
   width: 80%;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
-}
+
 
 p,
 li {
@@ -54,5 +51,29 @@ li {
 
   li {
     list-style: none;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .logo-image{
+    border: 1px red;
+    transition: all 1s ease-out;
+    display: block;
+    width: 200px;
+    height: 200px;
+  }
+  .logo-image:hover{
+    border: 2px red;
+    transform: scale(0.5);
+  }
+
+  .search-wrapper{
+    display:flex;
+    flex-direction: column;
+    gap: .25 rem;
+    background-color: white;
   }
 }

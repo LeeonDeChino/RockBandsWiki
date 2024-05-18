@@ -4,6 +4,5 @@ title: The Beatles
 description: Artículo de la banda The Beatles
 tags: ["bandas","rock"]
 date: "2024-05-15"
+logo: /img/BeatlesLogo.png
 ---
-
-# {{ title }}
