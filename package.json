@@ -10,7 +10,7 @@
     "start": "npx @11ty/eleventy --serve --port=7777",
     "clean":"rm -rf docs",
     "deploy":"npx @11ty/eleventy --pathprefix=/ ",
-    "deploy-subdomain":"npx @11ty/eleventy --pathprefix=/rockbandswiki/"
+    "deploy-subdomain":"npx @11ty/eleventy --pathprefix=/RockBandsWiki/"
   },
   "keywords": [],
   "author": "",
