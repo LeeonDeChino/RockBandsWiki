@@ -5,6 +5,10 @@ description: Artículo de la banda Avenged Sevenfold
 tags: ["bandas","metal"]
 date: "2024-05-15"
 logo: /img/A7XLogo.png
+imagen: /img/A7X.jpg
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/KVjBCT2Lc94?si=aufpzK5ZHd-3cubc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/DelhLppPSxY?si=VFv-wXR1ghgdpQ0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/A7ry4cx6HfY?si=kPgUSzvN_tFJlz8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 Avenged Sevenfold, también conocida como A7X, es una banda que ha redefinido el metal moderno con su mezcla única de metalcore, hard rock y heavy metal. Formada en 1999 en Huntington Beach, California, la banda ha alcanzado un éxito considerable gracias a su habilidad para combinar complejidad musical, letras profundas y una presencia escénica electrizante. Con un sonido que abarca desde lo melódico hasta lo agresivo, Avenged Sevenfold ha sabido crear una identidad propia y un legado duradero en el mundo de la música.

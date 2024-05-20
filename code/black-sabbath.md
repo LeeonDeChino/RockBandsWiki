@@ -5,6 +5,10 @@ description: Artículo de la banda Black Sabbath
 tags: ["bandas","metal"]
 date: "2024-05-15"
 logo: /img/BlackSabbathLogo.png
+imagen: /img/BlackSabbath.jpg
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/5s7_WbiR79E?si=Kg2ZFIMz3fDhSuaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/PrZFscfJxXc?si=si7nYtBeESpLN4t3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/0qanF-91aJo?si=pe7IZS5WGyksy2TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 Black Sabbath es ampliamente reconocida como una de las bandas más influyentes y pioneras en la creación del heavy metal. Formada en Birmingham, Inglaterra, en 1968, Black Sabbath estableció las bases para el género con su sonido oscuro, riffs pesados y letras temáticas centradas en lo oculto y lo macabro. La banda ha tenido un impacto duradero en la música y ha inspirado a innumerables músicos y bandas en las décadas siguientes.

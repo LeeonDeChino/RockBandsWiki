@@ -5,6 +5,10 @@ description: Artículo de la banda Aerosmith
 tags: ["bandas","rock"]
 date: "2024-05-15"
 logo: /img/AerosmithLogo.png
+imagen: /img/Aerosmith.jpg
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/89dGC8de0CA?si=WUKBqK2Irthv7FOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/JkK8g6FMEXE?si=KLg9j9wP2CGA8ZOF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/NMNgbISmF4I?si=LoE4SY4XQXktbpOG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 Aerosmith es una de las bandas más icónicas e influyentes del rock, conocida por su potente combinación de hard rock y blues, y por sus electrizantes actuaciones en vivo. Formada en 1970 en Boston, Massachusetts, Aerosmith ha construido una carrera que abarca más de cinco décadas, durante las cuales han dejado una huella imborrable en la historia de la música. Con su estilo distintivo, marcado por la voz rasposa de Steven Tyler y los poderosos riffs de guitarra de Joe Perry, la banda ha ganado una legión de seguidores en todo el mundo y ha vendido más de 150 millones de álbumes.

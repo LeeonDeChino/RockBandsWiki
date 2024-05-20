@@ -5,6 +5,10 @@ description: Artículo de la banda AC/DC
 tags: ["bandas","rock"]
 date: "2024-05-15"
 logo: /img/ACDCLogo.png
+imagen: /img/ACDC.jpg
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/l482T0yNkeo?si=jS94oPLKWqTkOtrJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/pAgnJDJN4VA?si=86ZGdFUggvucAgGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/v2AC41dglnM?si=di71bQwLZ1qgetMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 AC/DC es una de las bandas más emblemáticas e influyentes en la historia del hard rock. Formada en 1973 en Sídney, Australia, por los hermanos Malcolm y Angus Young, AC/DC ha dejado una marca indeleble en la música con su estilo energético, riffs potentes y actitud intransigente. Desde sus inicios, la banda ha sido conocida por su sonido característico, que combina elementos del rock and roll clásico con un enfoque crudo y directo que define el género del hard rock.

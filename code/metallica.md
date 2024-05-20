@@ -5,6 +5,7 @@ description: Artículo de la banda Metallica
 tags: ["bandas","metal"]
 date: "2024-05-15"
 logo: /img/MetallicaLogo.png
+imagen: /img/Metallica.jpg
 song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/WM8bTdBs-cw?si=1CK5bVVzKb16reBd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/E0ozmU9cJDg?si=24R7Z-ZiuwDhdJJb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/tAGnKpE4NCI?si=63r9Iidhivglo00M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
