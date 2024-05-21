@@ -2,6 +2,9 @@
   box-sizing: border-box;
   background-color: rgb(41, 40, 40);
   color: rgb(255, 255, 255);
+  --primaryFont: "New-rocker",system-ui;
+  --secondaryFont: "Nunito",sans-serif;
+  --titleFont:"Jaro",sans-serif;
 }
 
 body {
@@ -11,7 +14,7 @@ body {
   min-height: 100vh;
   border: medium solid rgb(0, 0, 0);
   text-align: center;
-  font-family: system-ui, sans-serif;
+  font-family: var(--primaryFont);
 }
 
 a {
@@ -33,6 +36,34 @@ li {
   text-align: left;
 }
 
+.new-rocker-regular {
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nunito-normal{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.jaro-title {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 2rem;
+  color:#7c0776;
+}
+.jaro-subtitle {
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color:#e6b926;
+}
 .menu {
   width: 100%;
   max-width: 480px;
@@ -57,14 +88,12 @@ li {
     margin: 0 auto;
   }
 
-  .title-text{
-    color:#7c0776;
-    font-style:oblique;
-  }
-  .titleB-text{
-    color:#eb2618;
-    font-style:oblique;
-  }
+  .acerca-text{
+    color:#66acfd;
+    font-size: 1.5rem;
+    text-align:left;
+    margin-left:70px;
+  } 
 
   .logo-image{
     transition: all 1s ease-out;

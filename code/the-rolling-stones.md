@@ -6,8 +6,8 @@ tags: ["bandas","rock"]
 date: "2024-05-15"
 logo: /img/RollingStonesLogo.png
 imagen: /img/RollingStones.jpg
-song1: <iframe width="1903" height="782" src="https://www.youtube.com/embed/EBUFtoC2oj4" title="Paint It, Black" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-song2: <iframe width="1903" height="782" src="https://www.youtube.com/embed/MSSxnv1_J2g" title="[I Can&#39;t Get No] Satisfaction (Mono)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song1: <iframe width="560" height="315" src="https://www.youtube.com/embed/EBUFtoC2oj4" title="Paint It, Black" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+song2: <iframe width="560" height="315" src="https://www.youtube.com/embed/MSSxnv1_J2g" title="[I Can&#39;t Get No] Satisfaction (Mono)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 song3: <iframe width="560" height="315" src="https://www.youtube.com/embed/SGyOaCXr8Lw?si=UxqWdIg_A5ImOO3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 The Rolling Stones, una de las bandas más longevas e influyentes en la historia del rock n' roll, se formó en Londres en 1962. Con una alineación clásica que incluye a Mick Jagger (voz principal), Keith Richards (guitarra principal y coros), Charlie Watts (batería) y Ronnie Wood (guitarra rítmica), la banda ha dejado una marca indeleble en la música y la cultura popular durante más de cinco décadas.
