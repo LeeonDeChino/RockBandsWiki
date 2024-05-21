@@ -57,6 +57,15 @@ li {
     margin: 0 auto;
   }
 
+  .title-text{
+    color:#7c0776;
+    font-style:oblique;
+  }
+  .titleB-text{
+    color:#eb2618;
+    font-style:oblique;
+  }
+
   .logo-image{
     transition: all 1s ease-out;
     display: block;
