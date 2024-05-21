@@ -13,7 +13,7 @@
     "deploy-subdomain":"npx @11ty/eleventy --pathprefix=/RockBandsWiki/"
   },
   "keywords": [],
-  "author": "",
+  "author": "LeeonDeChino",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
