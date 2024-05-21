@@ -98,6 +98,9 @@ li {
   .logo-image{
     transition: all 1s ease-out;
     display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
   }
   .logo-image:hover{
     transform: scale(1.05);
@@ -117,6 +120,14 @@ li {
     transform: scale(1.15);
   }
 
+  .page-image{
+      transition: all 1s ease-out;
+      display: block;
+      width: 700px;
+      height: 400px;
+      max-width: 100%;
+      margin: auto;  
+  }
   .search-wrapper{
     display:block;
   }
